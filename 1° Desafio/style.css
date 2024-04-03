@@ -1,0 +1,21 @@
+* {
+    background-color: brown;
+    color: aliceblue;
+}
+
+table {
+    width: 50%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid aliceblue;
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 50px;
+}
